@@ -20,6 +20,8 @@ It was also found that the sixth month had the lowest average atmospheric pressu
 
 Lastly, we found that a year on Mars is about 680 days, by looking at the difference between the two troughs.  
 
+Finally, I printed the data frame to a csv file ([mars.csv](https://github.com/aliciahlavac/Web_Scraping_Challenge/blob/main/mars.csv)).
+
 Throughout the project, I practiced my web-scraping skills, identifying relevant HTML elements, extracting data, and handling exceptions when necessary. Additionally, I demonstrated proficiency in using Python libraries such as Pandas and Matplotlib for data manipulation and visualization.
 
 The final deliverables of this project include the Jupyter Notebooks for both parts, containing the code and results of the web scraping and data analysis. The data extracted from the Mars news articles and Mars weather table can be found in the respective parts of the notebooks [Mars_News.ipynb](https://github.com/aliciahlavac/Web_Scraping_Challenge/blob/main/Mars_News.ipynb) and [Mars_Weather.ipynb](https://github.com/aliciahlavac/Web_Scraping_Challenge/blob/main/Mars_Weather.ipynb). The project not only showcases my web-scraping abilities but also demonstrates my data analysis and visualization skills, making it a valuable addition to my portfolio.
