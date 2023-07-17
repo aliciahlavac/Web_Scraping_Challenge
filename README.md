@@ -20,7 +20,7 @@ It was also found that the sixth month had the lowest average atmospheric pressu
 
 Lastly, we found that a year on Mars is about 680 days, by looking at the difference between the two troughs.  
 
-Finally, I printed the data frame to a csv file ([mars.csv](https://github.com/aliciahlavac/Web_Scraping_Challenge/blob/main/mars.csv)).
+Finally, I printed the data frame to a .csv file ([mars.csv](https://github.com/aliciahlavac/Web_Scraping_Challenge/blob/main/mars.csv)).
 
 Throughout the project, I practiced my web-scraping skills, identifying relevant HTML elements, extracting data, and handling exceptions when necessary. Additionally, I demonstrated proficiency in using Python libraries such as Pandas and Matplotlib for data manipulation and visualization.
 
