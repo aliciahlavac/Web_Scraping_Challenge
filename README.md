@@ -1,6 +1,6 @@
 # Web_Scraping_Challenge
 Module 11 Challenge
-In this project, I completed a web-scraping and data analysis challenge that involved extracting information from various Mars-related websites. The project consisted of two main parts: scraping titles and preview text from Mars news articles and scraping and analyzing Mars weather data from an HTML table.
+In this project, I completed a web-scraping and data analysis challenge that involved extracting information from various Mars-related websites. The project consisted of two main parts: scraping titles and preview text from Mars news articles ([Mars_News.ipynb](https://github.com/aliciahlavac/Web_Scraping_Challenge/blob/main/Mars_News.ipynb)) and scraping and analyzing Mars weather data from an HTML table ([Mars_Weather.ipynb](https://github.com/aliciahlavac/Web_Scraping_Challenge/blob/main/Mars_Weather.ipynb)).
 
 For the first part, I used automated browsing with Splinter and HTML parsing with BeautifulSoup to visit the Mars news site and extract the titles and preview text of the news articles. I stored the scraped data in Python dictionaries and added them to a list, which I printed in the Jupyter Notebook. Optionally, I also exported the data to a JSON file for sharing purposes.
 
